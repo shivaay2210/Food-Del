@@ -9,7 +9,7 @@ import Cart from "./pages/Cart/Cart.jsx";
 import MyOrders from "./pages/MyOrders/MyOrders.jsx";
 import PlaceOrder from "./pages/PlaceOrder/PlaceOrder.jsx";
 import Verify from "./pages/Verify/Verify.jsx";
-import Layout from "./layout.jsx";
+import Layout from "./Layout.jsx";
 
 const router = createBrowserRouter([
   {
